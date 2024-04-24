@@ -1,0 +1,90 @@
+--- STARTING FINE-TUNING ---Run name: Run - 04-09-15-37
+Hyperparameters:
+weight_decay=0.01, learning_rate=5e-05, gradient_accumulation_steps=1, batch_size=8.
+Final evaluation results:eval_loss=0.28014087677001953, eval_F1_micro=0.9137598337538964, eval_F1_macro=0.913484583580638, eval_F1_weighted=0.9136432146015423, eval_Precision_macro=0.9151316231819728, eval_Recall_macro=0.9128909353687872, eval_ROC_macro=0.9128909353687872, eval_Accuracy=0.9137598337538964, eval_runtime=412.5789, eval_samples_per_second=16.329, eval_steps_per_second=2.043, epoch=6.0
+
+Run name: Run - 04-09-17-25
+Hyperparameters:
+weight_decay=0.01, learning_rate=5e-05, gradient_accumulation_steps=2, batch_size=8.
+Final evaluation results:eval_loss=0.24003788828849792, eval_F1_micro=0.913908267774974, eval_F1_macro=0.9138171976890288, eval_F1_weighted=0.913908267774974, eval_Precision_macro=0.9138171976890288, eval_Recall_macro=0.9138171976890288, eval_ROC_macro=0.9138171976890288, eval_Accuracy=0.913908267774974, eval_runtime=402.888, eval_samples_per_second=16.722, eval_steps_per_second=2.092, epoch=7.0
+
+Run name: Run - 04-09-19-01
+Hyperparameters:
+weight_decay=0.01, learning_rate=5e-05, gradient_accumulation_steps=3, batch_size=8.
+Final evaluation results:eval_loss=0.23295937478542328, eval_F1_micro=0.9165800801543714, eval_F1_macro=0.91648857985806, eval_F1_weighted=0.9165784388934509, eval_Precision_macro=0.9165052925248215, eval_Recall_macro=0.9164725153558042, eval_ROC_macro=0.9164725153558043, eval_Accuracy=0.9165800801543714, eval_runtime=530.4013, eval_samples_per_second=12.702, eval_steps_per_second=1.589, epoch=9.0
+
+Run name: Run - 04-09-21-37
+Hyperparameters:
+weight_decay=0.01, learning_rate=3e-05, gradient_accumulation_steps=1, batch_size=8.
+Final evaluation results:eval_loss=0.32216349244117737, eval_F1_micro=0.8891197862550096, eval_F1_macro=0.8885493018523262, eval_F1_weighted=0.8888085053464915, eval_Precision_macro=0.8921174949830639, eval_Recall_macro=0.8877321368295625, eval_ROC_macro=0.8877321368295626, eval_Accuracy=0.8891197862550096, eval_runtime=555.3488, eval_samples_per_second=12.131, eval_steps_per_second=1.518, epoch=3.0
+
+Run name: Run - 04-09-22-36
+Hyperparameters:
+weight_decay=0.01, learning_rate=3e-05, gradient_accumulation_steps=2, batch_size=8.
+Final evaluation results:eval_loss=0.24016070365905762, eval_F1_micro=0.913908267774974, eval_F1_macro=0.9137997824312915, eval_F1_weighted=0.9138991895035361, eval_Precision_macro=0.9138951363024714, eval_Recall_macro=0.9137205925608581, eval_ROC_macro=0.9137205925608581, eval_Accuracy=0.913908267774974, eval_runtime=550.7916, eval_samples_per_second=12.231, eval_steps_per_second=1.531, epoch=7.0
+
+Run name: Run - 04-10-00-53
+Hyperparameters:
+weight_decay=0.01, learning_rate=3e-05, gradient_accumulation_steps=3, batch_size=8.
+Final evaluation results:eval_loss=0.23815391957759857, eval_F1_micro=0.9094552471426451, eval_F1_macro=0.9093392304738185, eval_F1_weighted=0.9094446564093913, eval_Precision_macro=0.909444723950748, eval_Recall_macro=0.9092532008940253, eval_ROC_macro=0.9092532008940253, eval_Accuracy=0.9094552471426451, eval_runtime=471.8041, eval_samples_per_second=14.279, eval_steps_per_second=1.787, epoch=7.0
+
+Run name: Run - 04-10-03-13
+Hyperparameters:
+weight_decay=0.01, learning_rate=2e-05, gradient_accumulation_steps=1, batch_size=8.
+Final evaluation results:eval_loss=0.3065829277038574, eval_F1_micro=0.9094552471426451, eval_F1_macro=0.9092789326730679, eval_F1_weighted=0.9094089423324531, eval_Precision_macro=0.9098202947831773, eval_Recall_macro=0.9089827065351472, eval_ROC_macro=0.9089827065351472, eval_Accuracy=0.9094552471426451, eval_runtime=501.853, eval_samples_per_second=13.424, eval_steps_per_second=1.68, epoch=7.0
+
+Run name: Run - 04-10-05-27
+Hyperparameters:
+weight_decay=0.01, learning_rate=2e-05, gradient_accumulation_steps=2, batch_size=8.
+Final evaluation results:eval_loss=0.2514874339103699, eval_F1_micro=0.9050022265103161, eval_F1_macro=0.9048701787531985, eval_F1_weighted=0.9049853917365003, eval_Precision_macro=0.9050341800884101, eval_Recall_macro=0.9047471671759242, eval_ROC_macro=0.9047471671759242, eval_Accuracy=0.9050022265103161, eval_runtime=516.0033, eval_samples_per_second=13.056, eval_steps_per_second=1.634, epoch=7.0
+
+Run name: Run - 04-10-07-55
+Hyperparameters:
+weight_decay=0.01, learning_rate=2e-05, gradient_accumulation_steps=3, batch_size=8.
+Final evaluation results:eval_loss=0.2467183917760849, eval_F1_micro=0.9069318687843254, eval_F1_macro=0.9067638401299555, eval_F1_weighted=0.9068925054282317, eval_Precision_macro=0.9071981788038502, eval_Recall_macro=0.9065097917016989, eval_ROC_macro=0.9065097917016989, eval_Accuracy=0.9069318687843254, eval_runtime=517.9401, eval_samples_per_second=13.007, eval_steps_per_second=1.628, epoch=9.99
+
+Run name: Run - 04-10-11-29
+Hyperparameters:
+weight_decay=0.02, learning_rate=5e-05, gradient_accumulation_steps=1, batch_size=8.
+Final evaluation results:eval_loss=0.2897959053516388, eval_F1_micro=0.8941665429716491, eval_F1_macro=0.8937692493546459, eval_F1_weighted=0.8939804321267909, eval_Precision_macro=0.8958996688311607, eval_Recall_macro=0.8931223500860448, eval_ROC_macro=0.8931223500860448, eval_Accuracy=0.8941665429716491, eval_runtime=514.3398, eval_samples_per_second=13.098, eval_steps_per_second=1.639, epoch=3.0
+
+Run name: Run - 04-10-12-32
+Hyperparameters:
+weight_decay=0.02, learning_rate=5e-05, gradient_accumulation_steps=2, batch_size=8.
+Final evaluation results:eval_loss=0.23714447021484375, eval_F1_micro=0.916728514175449, eval_F1_macro=0.9166346998626458, eval_F1_weighted=0.9167256084223976, eval_Precision_macro=0.9166647695888723, eval_Recall_macro=0.9166066156250458, eval_ROC_macro=0.9166066156250456, eval_Accuracy=0.916728514175449, eval_runtime=522.8686, eval_samples_per_second=12.885, eval_steps_per_second=1.612, epoch=7.0
+
+Run name: Run - 04-10-14-59 (BEST MODEL)
+Hyperparameters:
+weight_decay=0.02, learning_rate=5e-05, gradient_accumulation_steps=3, batch_size=8.
+Final evaluation results:eval_loss=0.2270711064338684, eval_F1_micro=0.9158379100489832, eval_F1_macro=0.9157004964449089, eval_F1_weighted=0.9158111346040717, eval_Precision_macro=0.9160219890028485, eval_Recall_macro=0.91549287759945, eval_ROC_macro=0.91549287759945, eval_Accuracy=0.9158379100489832, eval_runtime=490.2051, eval_samples_per_second=13.743, eval_steps_per_second=1.72, epoch=7.0
+
+Run name: Run - 04-10-17-31
+Hyperparameters:
+weight_decay=0.02, learning_rate=3e-05, gradient_accumulation_steps=1, batch_size=8.
+Final evaluation results:eval_loss=0.33210456371307373, eval_F1_micro=0.8819949532432834, eval_F1_macro=0.8813254920943376, eval_F1_weighted=0.8816152391133478, eval_Precision_macro=0.8854218835738249, eval_Recall_macro=0.8804838408293325, eval_ROC_macro=0.8804838408293326, eval_Accuracy=0.8819949532432834, eval_runtime=473.4709, eval_samples_per_second=14.229, eval_steps_per_second=1.78, epoch=3.0
+
+Run name: Run - 04-10-18-35
+Hyperparameters:
+weight_decay=0.02, learning_rate=3e-05, gradient_accumulation_steps=2, batch_size=8.
+Final evaluation results:eval_loss=0.24507372081279755, eval_F1_micro=0.9130176636485082, eval_F1_macro=0.9129043516474983, eval_F1_weighted=0.9130064723397665, eval_Precision_macro=0.9130222341483825, eval_Recall_macro=0.9128097253044208, eval_ROC_macro=0.9128097253044208, eval_Accuracy=0.9130176636485082, eval_runtime=487.8345, eval_samples_per_second=13.81, eval_steps_per_second=1.728, epoch=7.0
+
+Run name: Run - 04-10-21-02
+Hyperparameters:
+weight_decay=0.02, learning_rate=3e-05, gradient_accumulation_steps=3, batch_size=8.
+Final evaluation results:eval_loss=0.23708635568618774, eval_F1_micro=0.9103458512691108, eval_F1_macro=0.9102510127658163, eval_F1_weighted=0.9103458512691108, eval_Precision_macro=0.9102510127658163, eval_Recall_macro=0.9102510127658163, eval_ROC_macro=0.9102510127658163, eval_Accuracy=0.9103458512691108, eval_runtime=516.7614, eval_samples_per_second=13.037, eval_steps_per_second=1.631, epoch=8.0
+
+Run name: Run - 04-10-23-52
+Hyperparameters:
+weight_decay=0.02, learning_rate=2e-05, gradient_accumulation_steps=1, batch_size=8.
+Final evaluation results:eval_loss=0.30580729246139526, eval_F1_micro=0.9101974172480333, eval_F1_macro=0.9100550817830031, eval_F1_weighted=0.910171393226442, eval_Precision_macro=0.9103411422519823, eval_Recall_macro=0.9098657391633307, eval_ROC_macro=0.9098657391633308, eval_Accuracy=0.9101974172480333, eval_runtime=491.5882, eval_samples_per_second=13.705, eval_steps_per_second=1.715, epoch=7.0
+
+Run name: Run - 04-11-02-09
+Hyperparameters:
+weight_decay=0.02, learning_rate=2e-05, gradient_accumulation_steps=2, batch_size=8.
+Final evaluation results:eval_loss=0.2511212229728699, eval_F1_micro=0.9060412646578596, eval_F1_macro=0.9059218718801407, eval_F1_weighted=0.9060308177898092, eval_Precision_macro=0.9060209737856806, eval_Recall_macro=0.9058404372656884, eval_ROC_macro=0.9058404372656886, eval_Accuracy=0.9060412646578596, eval_runtime=444.9851, eval_samples_per_second=15.14, eval_steps_per_second=1.894, epoch=7.0
+
+Run name: Run - 04-11-04-30
+Hyperparameters:
+weight_decay=0.02, learning_rate=2e-05, gradient_accumulation_steps=3, batch_size=8.
+Final evaluation results:eval_loss=0.24686208367347717, eval_F1_micro=0.9090099450794122, eval_F1_macro=0.9088742216414283, eval_F1_weighted=0.9089885425372686, eval_Precision_macro=0.9091003980698935, eval_Recall_macro=0.9087156529068615, eval_ROC_macro=0.9087156529068616, eval_Accuracy=0.9090099450794122, eval_runtime=475.7941, eval_samples_per_second=14.159, eval_steps_per_second=1.772, epoch=9.99
+
