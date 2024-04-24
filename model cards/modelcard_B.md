@@ -5,7 +5,7 @@ language: en
 license: cc-by-4.0
 tags:
 - text-classification
-repo: https://github.com/Frenciel-and-Sam/nlu-cwk-nli
+repo: https://github.com/SamySam0/nlu-cwk-nli
 
 ---
 
